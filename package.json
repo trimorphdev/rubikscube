@@ -1,6 +1,6 @@
 {
   "name": "@faztasio/rubikscube",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A virtual Rubik's cube made with JavaScript.",
   "main": "index.js",
