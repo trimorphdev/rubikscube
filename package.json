@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A virtual Rubik's cube made with JavaScript.",
   "main": "index.js",
+  "homepage": "https://github.com/trimorphdev/rubikscube#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +14,9 @@
   },
   "dependencies": {
     "colors": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trimorphdev/rubikscube.git"
   }
 }
