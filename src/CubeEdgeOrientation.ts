@@ -1,0 +1,1 @@
+export type CubeEdgeOrientation = 1 | 2;

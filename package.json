@@ -1,0 +1,17 @@
+{
+  "name": "rubikscube",
+  "version": "1.0.0",
+  "description": "A virtual Rubik's cube made with JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zack Pace",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

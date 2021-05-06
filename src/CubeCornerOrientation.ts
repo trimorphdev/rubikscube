@@ -1,0 +1,1 @@
+export type CubeCornerOrientation = 1 | 2 | 3;
