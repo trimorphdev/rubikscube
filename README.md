@@ -1,6 +1,10 @@
 # Rubik's Cube
 A Rubik's Cube simulator written in TypeScript (Node.js) for the terminal.
 
+```sh
+npm i --save @faztasio/rubikscube
+```
+
 ![A quick preview of the simulator.](assets/preview.png)
 ```js
 const cubelib = require('rubikscube');
